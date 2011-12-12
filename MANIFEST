@@ -5,7 +5,6 @@ META.yml
 Makefile.PL
 README
 README.md
-auth.conf
 dist.ini
 lib/Net/ZooTool.pm
 lib/Net/ZooTool/Auth.pm
